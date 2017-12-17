@@ -2,7 +2,7 @@
 
 Hello! I am Chhaya Choudhary!
 
-![GitHub Profile Picture](https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/IMG-4851%20-%20Copy.JPG =250x334)
+![GitHub Profile Picture](https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg)
 
 
 
