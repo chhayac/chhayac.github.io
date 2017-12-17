@@ -1,8 +1,10 @@
-## Welcome to Chhaya Choudhary's Homepage
+About Me
 
-You can use the [editor on GitHub](https://github.com/chhayac/chhayac.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Chhaya!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Graduate Student in Computer Science and Systems Department at University of Washington Tacoma. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms.
+
+I have worked on Age and Gender classification using deep learning (CNN, Keras, Tensorflow) on Social media profile pictures as a part of my machine learning project. 
 
 ### Deep Learning
 
