@@ -12,7 +12,7 @@ on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques.
 </p>
 
 ## Projects
-### Age, Gender and Personality Trait Prediction of FaceBook Users                                
+### [Age, Gender and Personality Trait Prediction of FaceBook Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
 - Designed and developed Deep Neural Network to predict age and gender of FaceBook users using 9500 proﬁle pictures with 87% accuracy. 
 - Developed machine learning models to predict personality traits (openness, agreeable, extrovert) of FaceBook users using Linguistic Inquiry and Word Count (LIWC) features. 
 - Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
