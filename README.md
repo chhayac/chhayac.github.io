@@ -2,8 +2,9 @@
 
 Hello! I am Chhaya Choudhary!
 
-![GitHub Profile Picture](https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg)
-
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg">
+</p>
 
 
 I am a Graduate Student in Computer Science and Systems Department at University of Washington Tacoma. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. I will be graduating in Dec 2018 and currently looking for Summer Intership opportunities.
