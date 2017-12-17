@@ -17,7 +17,7 @@ on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques.
 - Developed machine learning models to predict personality traits (openness, agreeable, extrovert) of FaceBook users using Linguistic Inquiry and Word Count (LIWC) features. 
 - Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
 
-### [Machine Learning Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)
+### [Machine Learning and Deep Learning Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)
 These are my Jupyter Notebooks where I experiment with various machine and deep learning frameworks.
 
 ### Empirical Study of Network Flow Algorithms                                                      
