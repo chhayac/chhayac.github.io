@@ -1,12 +1,12 @@
-# About Me
+## About Me
 
-Hello! I am Chhaya!
+Hello! I am Chhaya Choudhary!
 
 I am a Graduate Student in Computer Science and Systems Department at University of Washington Tacoma. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms.
 
 I have worked on Age and Gender classification using deep learning (CNN, Keras, Tensorflow) on Social media profile pictures as a part of my machine learning project. 
 
-### Deep Learning
+## Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
