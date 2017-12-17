@@ -2,15 +2,14 @@
 
 Hello! I am Chhaya Choudhary!
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg">
-</p>
-
-
-I am a Graduate Student in Computer Science and Systems Department at University of Washington Tacoma. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. I will be graduating in Dec 2018 and currently looking for Summer Intership opportunities.
+I am a Graduate Student in Computer Science and Systems Department at [University of Washington Tacoma](https://www.tacoma.uw.edu/). My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. I will be graduating in Dec 2018 and currently looking for Summer Intership opportunities.
 
 I recently started working on a research project at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) in collaboration with [Infoblox](https://www.infoblox.com/)
 on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques. 
+
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg">
+</p>
 
 ## Projects
 ### Age, Gender and Personality Trait Prediction of FaceBook Users                                
