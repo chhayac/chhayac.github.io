@@ -17,10 +17,22 @@ on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques.
 - Developed machine learning models to predict personality traits (openness, agreeable, extrovert) of FaceBook users using Linguistic Inquiry and Word Count (LIWC) features. 
 - Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
 
+### [Machine Learning Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)
+These are my Jupyter Notebooks where I experiment with various machine and deep learning frameworks.
+
 ### Empirical Study of Network Flow Algorithms                                                      
 - Implemented Ford-Fulkerson, Scaling Ford-Fulkerson, and Preﬂow-push algorithms in Java to ﬁnd maximum ﬂow in a network and performed empirical study with Random, Bipartite and Mesh graphs.
 - Technical Proﬁciency Demonstrated: Java, Git, Algorithms and Data-Structures 
 
 ### Simulation and Visualization of 5 Sorting Algorithms                                            
 - Developed a simulation experiment to compare and contrast various sorting algorithms by drawing real-time graphs and interpreting their behaviors on various degree of sortedness. 
-- Technical Proﬁciency Demonstrated: Python, Git, Matplotlib 
+- Technical Proﬁciency Demonstrated: Python, Git, Matplotlib
+
+### [Data Structure and Algorithm problems](https://github.com/chhayac/algo_and_data_structures)
+This is my repository where I solve interesting algorithms and data structure problems.
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/chhayachoudhary/)
+- Email - er.chhayachoudhary@gmail.com / chhayc@uw.edu
+- [Github](https://github.com/chhayac)
+
