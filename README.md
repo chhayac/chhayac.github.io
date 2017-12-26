@@ -18,7 +18,14 @@ on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques.
 - Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
 
 ### [Machine Learning and Deep Learning Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)
-These are my Jupyter Notebooks where I experiment with various machine and deep learning frameworks.
+These are my Jupyter Notebooks where I experiment with various machine and deep learning problems and frameworks.
+1. Iris Flower Classification using Keras, Tensorflow and Scikit-Learn ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Iris_flower_classification.ipynb))
+2. Recognizing CIFAR-10 images using Convolutional Neural Networks
+	- Part I   - Simple model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Simple-Model.ipynb))
+	- Part II  - Improved model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model.ipynb))
+	- Part III - Data Augmentation
+3. Traffic Sign Recognition using Convolutional Neural Networks ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Traffic-Sign-Recognition.ipynb))
+
 
 ### Empirical Study of Network Flow Algorithms                                                      
 - Implemented Ford-Fulkerson, Scaling Ford-Fulkerson, and Preﬂow-push algorithms in Java to ﬁnd maximum ﬂow in a network and performed empirical study with Random, Bipartite and Mesh graphs.
