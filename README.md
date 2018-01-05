@@ -21,11 +21,11 @@ on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques.
 These are my Jupyter Notebooks where I experiment with various machine and deep learning problems and frameworks.
 1. Iris Flower Classification using Keras, Tensorflow and Scikit-Learn ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Iris_flower_classification.ipynb))
 2. Recognizing CIFAR-10 images using Convolutional Neural Networks
-	- Part I   - Simple model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Simple-Model.ipynb))
-	- Part II  - Improved model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model.ipynb))
-	- Part III - Data Augmentation
+	- Part I   - Simple model ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Simple-Model.ipynb))
+	- Part II  - Improved model ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model.ipynb))
+	- Part III - Data Augmentation ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model-Data-Augmentation.ipynb))
 3. Traffic Sign Recognition using Convolutional Neural Networks ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Traffic-Sign-Recognition.ipynb))
-4. Movie Recommendation Engine from Scratch ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Movie_Recommendation_Engine.ipynb)
+4. Movie Recommendation Engine from Scratch ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Movie_Recommendation_Engine.ipynb))
 
 
 ### Empirical Study of Network Flow Algorithms                                                      
