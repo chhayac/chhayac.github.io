@@ -5,16 +5,16 @@ Hello! I am Chhaya Choudhary!
 I am a Graduate Student in Computer Science and Systems Department at [University of Washington Tacoma](https://www.tacoma.uw.edu/). My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. I will be graduating in Dec 2018 and currently looking for Summer Internship opportunities.
 
 I recently started working on a research project at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) in collaboration with [Infoblox](https://www.infoblox.com/)
-on Detecting DDoS Attacks Against DNS Servers using Machine Learning techniques. Please download my [resume](https://github.com/chhayac/chhayac.github.io/raw/master/chhaya_choudhary_resume.pdf) here.
+on Detection of Domain Generation Algorithms using Deep Learning. Please download my [resume](https://github.com/chhayac/chhayac.github.io/raw/master/chhaya_choudhary_resume.pdf) here.
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg">
 </p>
 
 ## Projects
-### [Age, Gender and Personality Trait Prediction of FaceBook Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
-- Designed and developed Deep Neural Network to predict age and gender of FaceBook users using 9500 proﬁle pictures with 87% accuracy. 
-- Developed machine learning models to predict personality traits (openness, agreeable, extrovert) of FaceBook users using Linguistic Inquiry and Word Count (LIWC) features. 
+### [Age, Gender and Personality Trait Prediction of Facebook Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
+- Designed and developed Deep Neural Network to predict age and gender of Facebook users using 9500 proﬁle pictures with 87% accuracy. 
+- Developed machine learning models to predict personality traits (openness, agreeable, extrovert) of Facebook users using Linguistic Inquiry and Word Count (LIWC) features. 
 - Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
 
 ### [Machine Learning and Deep Learning Notebooks](https://github.com/chhayac/Machine-Learning-Notebooks)
