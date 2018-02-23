@@ -4,8 +4,7 @@ Hello! I am Chhaya Choudhary!
 
 I am a Graduate Student in Computer Science and Systems Department at [University of Washington Tacoma](https://www.tacoma.uw.edu/). My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. I will be graduating in Dec 2018 and currently looking for Summer Internship opportunities.
 
-I recently started working on a research project at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) in collaboration with [Infoblox](https://www.infoblox.com/)
-on Detection of Domain Generation Algorithms using Deep Learning. Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Resume_Git.pdf) here.
+I recently started working on a research project at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone project is Protecting DGA Classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Resume_Git.pdf) here.
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpg">
