@@ -11,7 +11,7 @@ I recently started working on a research project at University of Washington und
 </p>
 
 ## Projects
-### [Age, Gender and Personality Trait Prediction of Facebook Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
+### [Age, Gender and Personality Trait Prediction of Social Media Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
 - Designed and developed Machine Learning and Deep Learning models to predict age, gender and personality traits of social media users using their status updates, profile pictures and page likes with 87% accuracy. 
 - Technical Proﬁciency Demonstrated: Python, Convolutional Neural Networks, Keras, Tensorﬂow, Scikit-Learn, Transfer Learning, Numpy, Pandas, Jupyter, Matplotlib 
 
