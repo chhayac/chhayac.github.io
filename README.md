@@ -7,7 +7,7 @@ I am a Graduate Student in Computer Science and Systems Department at [Universit
 I am working on a research project at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone (thesis) focuses on protecting DGA classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Resume_Git.pdf) here.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpeg" width=378 height=504">
+<img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpeg" width=378 height=504>
 </p>
 														    
 ## Publications (Under Review)
@@ -18,7 +18,6 @@ The Sixth International Symposium on Security in Computing and Communications (S
 Bin Yu, Jie Pan, Daniel Gray, Jiaming Hu, Chhaya Choudhary,Mayana Pereira, Anderson Nascimento, and
 Martine De Cock. Weakly Supervised Deep Learning for the Detection of Domain Generation
 Algorithms. IEEE Transactions on Dependable and Secure Computing, 2018
-
 
 ## Projects
 ### [Age, Gender and Personality Trait Prediction of Social Media Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
