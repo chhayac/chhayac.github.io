@@ -10,14 +10,14 @@ I am working on a research project at University of Washington under the supervi
 <img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpeg" width="378px" height="504px">
 </p>
 														    
-## Publications (Under Review)
+## Publications
 Chhaya Choudhary, Raaghavi Sivaguru, Mayana Pereira, Bin Yu, Martine De Cock,and Anderson C.
 Nascimento. **_Algorithmically Generated Domain Detection and Malware Family Classification.
-The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_**
+The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** (Accepted)
 
 Bin Yu, Jie Pan, Daniel Gray, Jiaming Hu, Chhaya Choudhary,Mayana Pereira, Anderson Nascimento, and
 Martine De Cock. **_Weakly Supervised Deep Learning for the Detection of Domain Generation
-Algorithms. IEEE Transactions on Dependable and Secure Computing, 2018_**
+Algorithms. IEEE Transactions on Dependable and Secure Computing, 2018_** (Under Review)
 
 ## Projects
 ### [Age, Gender and Personality Trait Prediction of Social Media Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
