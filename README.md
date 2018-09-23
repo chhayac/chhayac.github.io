@@ -8,7 +8,7 @@ I am working on a research project at University of Washington under the supervi
 
 Currently, I am working as a **_Data Scientist Intern at Infoblox_** where I am solving challenging data problems involving malware detection and classification using Machine Learning and Deep Learning techniques. I also worked on data exploration, data cleaning, feature engineering, and model evaluation. I have multiple accepted publications in the field of cybersecurity using AI/ML. 
 
-I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences and have attended conferences/events like USENIX’18 as grant recipient, Society of Women Engineers, Women in Data Science, Azure University event, ACT-W conference,etc. I will be attending GHC 2018 as a scholar in Sep 2018 and am very excited to meet a lot of people and learn from them.
+I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences and have attended conferences/events like **_USENIX’18 as grant recipient, Society of Women Engineers, Women in Data Science, Azure University event, ACT-W conference _**,etc. I will be attending ***_GHC 2018 as a scholar_** in Sep 2018 and am very excited to meet a lot of people and learn from them.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpeg" width="378px" height="504px">
