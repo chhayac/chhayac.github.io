@@ -19,7 +19,7 @@ I am an enthusiastic person and always curious to learn. I strongly believe in c
 ## Publications
 
  **_Algorithmically Generated Domain Detection and Malware Family Classification.
-The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** 
+The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** [PDF]
 (http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
 C. Choudhary, R. Sivaguru, M. Pereira, B. Yu, A. Nascimento, M. De Cock
 in: Proceedings of the Sixth International Symposium on Security in Computing and Communications (SSCC'18), Communications in Computer and Information Science Series 969, p.640-655, 2019
