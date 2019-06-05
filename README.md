@@ -29,6 +29,7 @@ The Sixth International Symposium on Security in Computing and Communications (S
 
 C. Choudhary, R. Sivaguru, M. Pereira, B. Yu, A. Nascimento, M. De Cock
 in: Proceedings of the Sixth International Symposium on Security in Computing and Communications (SSCC'18), Communications in Computer and Information Science Series 969, p.640-655, 2019
+
 First place for two out of the four datasets in the Detecting Malicious Domain Names competition [DMD 2018](https://nlp.amrita.edu/DMD2018/) 
 
 
