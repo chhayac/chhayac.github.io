@@ -18,18 +18,24 @@ I am an enthusiastic person and always curious to learn. I strongly believe in c
 														    
 ## Publications
 
+**_An Evaluation of DGA Classifiers_** [PDF](http://faculty.washington.edu/mdecock/papers/rsivaguru2018a.pdf)
+R. Sivaguru, C. Choudhary, B. Yu, V. Tymchenko, A. Nascimento, M. De Cock
+in: Proceedings of IEEE BigData2018 (2018 IEEE International Conference on Big Data), p. 5051-5060, 2018
+
+
  **_Algorithmically Generated Domain Detection and Malware Family Classification.
-The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** [PDF]
-(http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
+The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** [PDF](http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
+
+
 C. Choudhary, R. Sivaguru, M. Pereira, B. Yu, A. Nascimento, M. De Cock
 in: Proceedings of the Sixth International Symposium on Security in Computing and Communications (SSCC'18), Communications in Computer and Information Science Series 969, p.640-655, 2019
-First place for two out of the four datasets in the Detecting Malicious Domain Names competition [DMD 2018] (https://nlp.amrita.edu/DMD2018/) 
+First place for two out of the four datasets in the Detecting Malicious Domain Names competition [DMD 2018](https://nlp.amrita.edu/DMD2018/) 
 
 
+**_Weakly Supervised Deep Learning for the Detection of Domain Generation Algorithms_** [PDF](https://ieeexplore.ieee.org/document/8691763)
+B. Yu, J. Pan, D. Gray, J. Hu, C. Choudhary, A. Nascimento, M. De Cock
+IEEE Access 7, p. 51542-51556, 2019
 
-Bin Yu, Jie Pan, Daniel Gray, Jiaming Hu, Chhaya Choudhary,Mayana Pereira, Anderson Nascimento, and
-Martine De Cock. **_Weakly Supervised Deep Learning for the Detection of Domain Generation
-Algorithms. IEEE Transactions on Dependable and Secure Computing, 2018_** (Under Review)
 
 ## Projects
 ### [Age, Gender and Personality Trait Prediction of Social Media Users](https://github.com/chhayac/Gender-Classification-Using-Images)                                
