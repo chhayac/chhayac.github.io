@@ -17,9 +17,15 @@ I am an enthusiastic person and always curious to learn. I strongly believe in c
 </p>
 														    
 ## Publications
-Chhaya Choudhary, Raaghavi Sivaguru, Mayana Pereira, Bin Yu, Martine De Cock,and Anderson C.
-Nascimento. **_Algorithmically Generated Domain Detection and Malware Family Classification.
-The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** (Accepted)
+
+ **_Algorithmically Generated Domain Detection and Malware Family Classification.
+The Sixth International Symposium on Security in Computing and Communications (SSCC’ 18)_** 
+(http://faculty.washington.edu/mdecock/papers/cchoudhary2018a.pdf)
+C. Choudhary, R. Sivaguru, M. Pereira, B. Yu, A. Nascimento, M. De Cock
+in: Proceedings of the Sixth International Symposium on Security in Computing and Communications (SSCC'18), Communications in Computer and Information Science Series 969, p.640-655, 2019
+First place for two out of the four datasets in the Detecting Malicious Domain Names competition [DMD 2018] (https://nlp.amrita.edu/DMD2018/) 
+
+
 
 Bin Yu, Jie Pan, Daniel Gray, Jiaming Hu, Chhaya Choudhary,Mayana Pereira, Anderson Nascimento, and
 Martine De Cock. **_Weakly Supervised Deep Learning for the Detection of Domain Generation
