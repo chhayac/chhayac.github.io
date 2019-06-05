@@ -2,13 +2,15 @@
 
 Hello! I am Chhaya Choudhary!
 
-I am a Graduate Student in Computer Science and Systems Department at [University of Washington Tacoma](https://www.tacoma.uw.edu/). My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. I will be graduating in Dec 2018/Mar 2019 and looking for full-time opportunities.
+Currently, I am working as a **_Data Scientist at Infoblox_** where I am solving challenging data problems involving malware detection and classification using Machine Learning and Deep Learning techniques. I am actively working on data exploration, data cleaning, feature engineering, model preparation, evaluation and deploying the model using docker containers. I have multiple accepted publications in the field of cybersecurity using AI/ML. 
 
-I am working on a research project at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone (thesis) focuses on protecting DGA classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
+I graduated from [University of Washington Tacoma](https://www.tacoma.uw.edu/) with Masters in Computer Science with specialization in Data Science. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. 
 
-Currently, I am working as a **_Data Scientist Intern at Infoblox_** where I am solving challenging data problems involving malware detection and classification using Machine Learning and Deep Learning techniques. I also worked on data exploration, data cleaning, feature engineering, and model evaluation. I have multiple accepted publications in the field of cybersecurity using AI/ML. 
+I worked on research projects at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone (thesis) was focused on protecting DGA classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
 
-I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences and have attended conferences/events like **_USENIX’18 as grant recipient, Society of Women Engineers, Women in Data Science, Azure University event, ACT-W conference_** ,etc. I will be attending **_GHC 2018 as a scholar_** in Sep 2018 and am very excited to meet a lot of people and learn from them.
+
+
+I am an enthusiastic person and always curious to learn. I strongly believe in collaboration. I love to attend conferences to learn, grow in my career and have attended conferences/events like **_USENIX’18 as grant recipient, Society of Women Engineers, Women in Data Science, Azure University event, ACT-W conference , GHC 2018 as a scholar, Hopper X 1 Seattle_**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/chhayac/chhayac.github.io/master/profile_pic.jpeg" width="378px" height="504px">
