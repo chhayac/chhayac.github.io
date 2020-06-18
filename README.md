@@ -6,7 +6,7 @@ Currently, I am working as a **_Data Scientist at Infoblox_** where I am solving
 
 I graduated from [University of Washington Tacoma](https://www.tacoma.uw.edu/) with Masters in Computer Science with specialization in Data Science. My fields of interest are Machine Learning, Deep Learning, Natural Language Processing, Distributed Computing and Algorithms. 
 
-I worked on research projects at University of Washington under the supervision of [Prof. Martine De Cock](https://www.tacoma.uw.edu/institute-technology/martine-de-cock-phd) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone (thesis) was focused on protecting DGA classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
+I worked on research projects at University of Washington under the supervision of [Prof. Martine De Cock](https://directory.tacoma.uw.edu/employee/mdecock) on Detection of Domain Generation Algorithms (DGA) using Deep Learning. My Capstone (thesis) was focused on protecting DGA classifiers against Adversarial examples using Generative Adversarial Networks (GANs). Please download my [resume](https://github.com/chhayac/chhayac.github.io/blob/master/Chhaya_Choudhary_GHCScholar_DS.pdf) here.
 
 
 
